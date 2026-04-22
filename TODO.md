@@ -1,0 +1,2 @@
+- [x] 1. Agregar permiso CAMERA a AndroidManifest.xml
+- [x] 2. Build e install a emulador (`.\gradlew.bat clean installDebug`) ✅ Ejecutado
